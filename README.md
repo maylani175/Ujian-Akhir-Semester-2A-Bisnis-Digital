@@ -1,4 +1,4 @@
-# Ujian-Akhir-Semester-2A-Bisnis-Digital
+# Uas-Dwi Maylani Pertiwi-24110310017-2A-Bisnis-Digital
 
 Aplikasi Toko Makeup GlowStore ini adalah program berbasis command line (CLI) menggunakan bahasa Python. Aplikasi ini membantu proses pembelian produk makeup dengan fitur keranjang belanja, manajemen stok, perhitungan total belanja, input uang dari pembeli, perhitungan kembalian, dan penyimpanan struk pembelian dalam format JSON.
 
